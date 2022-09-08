@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    color: rgb(0, 200, 250);
+    text-decoration:underline;
+
+    background-image: url("https://wallpaperaccess.com/full/3352658.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 10cm 2cm;
+    background-size: 1160px 880px;
+    background-color: rgb(0, 0, 0)
+
+}
+.imagem{
+    position: absolute;
+    left: 18cm;
+    top: 7cm;
+}
+
+.link:active {
+    text-decoration: none;
+    
+}
+.link:hover{
+    text-decoration: none;
+    
+}
+.link:link, .link:visited{
+    text-decoration:none;
+
+}
+.link{
+    text-decoration:none;
+    color: white;
+    background-color:black ;
+}
